@@ -7,6 +7,10 @@ return {
     ["91f2f674-e9e9-4994-82dc-1920ed7f2145"] = "KEY_b9c4d6e8f1g3h5j7k2m",
     
     ["880048b0-afd7-4b57-be15-a8d1d4c620f5"] = "KEY_e6h9k2m5n8p3r6t9v2",
+    
+    ["069d48f2-599e-4055-8521-3f3ce42bb328"] = "KEY_x9a6d2g5j8m3p6s9v3",
+ 
+ ["ee78ea53-1808-4138-8e4f-d4add7e2e469"] = "KEY_v8z5c9f3i6l9o3r8u2",
  
  ["e90a9e3e-af2a-430c-87d5-e501d36b2345"] = "KEY_s3z6c9f4j7m1p4s7v1",
  
