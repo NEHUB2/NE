@@ -31,8 +31,63 @@
 -- 萝莉控制-- 萝莉控制-- 萝莉控制-- 萝莉控制-- 萝莉控制-- 萝莉控制-- 萝莉控制-- 萝莉控制-- 萝莉控制-- 萝莉控制-- 萝莉控制-- 萝莉控制-- 萝莉控制-- 萝莉控制-- 萝莉控制-- 萝莉控制-- 萝莉控制-- 萝莉控制-- 萝莉控制-- 萝莉控制-- 萝莉控制-- 萝莉控制-- 萝莉控制-- 萝莉控制-- 萝莉控制-- 萝莉控制-- 萝莉控制-- 萝莉控制-- 萝莉控制-- 萝莉控制
 
 return {
-    ["ABC123"] = {type="PERMANENT"},
-    ["FCKEV1114514"] = {type="MONTHLY"},
-    ["GHI789"] = {type="WEEKLY"},
-    ["JKL012"] = {type="LONGTERM"}
+   
+    ["NEVIP888888"] = {
+        keyType = "永久卡",
+        boundClientId = nil,
+        activateTime = nil,
+        creator = "admin",
+        createTime = os.time({year=2024, month=1, day=1})
+    },
+    
+  
+    ["NEMONTH2024"] = {
+        keyType = "月卡", 
+        boundClientId = nil,
+        activateTime = nil,
+        creator = "admin",
+        createTime = os.time({year=2024, month=1, day=1})
+    },
+    
+  
+    ["NEWEEK2024"] = {
+        keyType = "周卡",
+        boundClientId = nil,
+        activateTime = nil,
+        creator = "admin", 
+        createTime = os.time({year=2024, month=1, day=1})
+    },
+    
+  
+    ["NEDAY2024"] = {
+        keyType = "天卡",
+        boundClientId = nil,
+        activateTime = nil,
+        creator = "admin",
+        createTime = os.time({year=2024, month=1, day=1})
+    },
+    
+    ["NEHOUR2024"] = {
+        keyType = "小时卡",
+        boundClientId = nil,
+        activateTime = nil,
+        creator = "admin",
+        createTime = os.time({year=2024, month=1, day=1})
+    },
+    
+    ["NEYEAR2099"] = {
+        keyType = "2099年卡",
+        boundClientId = nil,
+        activateTime = nil,
+        creator = "admin",
+        createTime = os.time({year=2024, month=1, day=1})
+    },
+    
+    ["USEDKEY123"] = {
+        keyType = "月卡",
+        boundClientId = "device123456789",
+        activateTime = os.time({year=2024, month=9, day=1}),
+        creator = "admin",
+        createTime = os.time({year=2024, month=1, day=1})
+    }
 }
