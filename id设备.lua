@@ -10,6 +10,10 @@ return {
 
     ["2bd4d2ad-ca9e-4a79-be53-09eb75a794d4"] = "KEY_f4664976773sjjdjdie",
     
+    ["d1bf30ec-d07f-45e7-9153-5c286009671a"] = "KEY_jdjdndjxijxdkskzmjdjid464679",
+    
+        ["ce261784-3ef3-4893-b224-92577f1c2592"] = "KEY_V46466djjdkzjdk1346qaz",
+    
     ["f159e0c7-77a2-4e4b-b9d6-642d782f56f5"] = "KEY_f4664976773sjjdjdie",
     
     ["cc3b9731-087d-44cf-a350-4a723fc3caec"] = "V3X4KFG4369V845UIE2",
@@ -21,6 +25,8 @@ return {
     ["91f2f674-e9e9-4994-82dc-1920ed7f2145"] = "KEY_b9c4d6e8f1g3h5j7k2m",
     
     ["880048b0-afd7-4b57-be15-a8d1d4c620f5"] = "KEY_e6h9k2m5n8p3r6t9v2",
+    
+        ["0ef778d6-4ad0-45bc-85d7-110e019694f7"] = "KEY_jsdiwiwozkmxnfhtyruieiskd",
     
     ["0bac085d-8cd5-469b-b528-9eedf725583e"] = "KEY_V32X4v1bhj93",
     
